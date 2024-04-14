@@ -6,4 +6,4 @@ Hi there! My name is Samuel Owens.
 
 💼 I am a Graduate Research and Teaching Assistant at Temple University and I work with the [iEcoLab](https://github.com/ieco-lab).
 
-🎓 My PhD is in Biology and my bachelor's was in Zoology.
+🎓 My MS is in Biology and my bachelor's was in Zoology.

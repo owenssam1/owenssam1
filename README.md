@@ -1,6 +1,6 @@
 # About Me
 
-Hi there! My name is Samuel Owens. 
+Hi there! My name is Sam Owens. 
 
 📚 My research in ecological modeling. I develop mulit-scale modeling frameworks, one of which I am currently applying to the invasive Spotted Lanternfly (Lycorma delicatula). I am interested in the effects of climate change on invasive spread.
 
